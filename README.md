@@ -2,14 +2,14 @@
 
 Este es un repositorio con recursos en Español para aprender habilidades en las siguientes rutas:
 
-* (Ruta de Desarrollo Web)[]
-* (Ruta de Desarrollo Javascript)[]
-* (Ruta de Desarrollo Java)[]
-* (Ruta de Desarrollo Front End)[]
-* (Ruta de Desarrollo Back End con Python)[]
-* (Ruta de Desarrollo Back End con Node.js)[]
-* (Ruta de Desarrollo de Base de datos)[]
-* (Ruta de Seguridad Informatica)[]
+* Ruta de Desarrollo Web
+* Ruta de Desarrollo Javascript
+* Ruta de Desarrollo Java
+* Ruta de Desarrollo Front End
+* Ruta de Desarrollo Back End con Python
+* Ruta de Desarrollo Back End con Node.js
+* Ruta de Desarrollo de Base de datos
+* Ruta de Seguridad Informatica
 
 
 ### Ruta de Desarrollo Web
